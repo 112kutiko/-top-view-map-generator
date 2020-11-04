@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582136189 source:d:\c++woër\test.ai\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<ctime>
+
